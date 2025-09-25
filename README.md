@@ -36,5 +36,6 @@ Para crear el terreno, primero tuvimos que download un asset para terrenos llama
 Queríamos darle un estilo de "muddy area" (como el ejemplo), entonces los terrain layers que usamos fueron: Muddy_Terrain, Heather_Terrain, Rock_Terrain y Soil_Rocks_Terrain. Fuimos poco a poco
 pintando hasta encontrar un buen ambiente de donde puede ser que este un templo como este. 
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e95b7a45-2ffc-4761-9746-93c4f07a7e4c" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/e95b7a45-2ffc-4761-9746-93c4f07a7e4c" />
+
 En esta foto se puede apreciar mucho más, ya que esta de cerca.
