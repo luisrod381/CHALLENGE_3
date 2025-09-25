@@ -19,6 +19,8 @@ de la estructura, se le hizo extrude a dos caras adentro y se pintaron de negro 
 esencialmente fue jugar con las caras hasta encontrar un diseño que nos gustara, pero la idea fue merge las caras del interior, merge y todas las demas caras hicieron la forma.
 Por ultimo, hicimos merge las caras del exterior que sirven como plataforma.
 
+
+
 x. Darle color al proyecto
 <img width="1861" height="1006" alt="Screenshot 2025-09-24 010418" src="https://github.com/user-attachments/assets/b9feccc0-8eb4-404e-a4d0-600de91c354b" />
 
@@ -28,6 +30,7 @@ le dimos color. Para el techo como era un plano entero, solamente le dimos color
 layer por layer merging todas las caras de ese layer, para hacerles detach como submesh y darles el color marrón a cada layer. Para la escalera, inicialmente teniamos solamente una pero la 
 dividimos en 3 partes, 2 menos anchas a los exteriores y la del medio siendo mas larga, a esta le dimos color marrón. Por último, hicimos un material nuevo para el color blanco, y simplemente
 se lo aplicamos al plano entero de la pirámide, ya que todo lo que le dimos color marrón estaba separado, y a las escaleras.
+
 
 x. Crear el terreno
 <img width="1887" height="1027" alt="Screenshot 2025-09-24 020021" src="https://github.com/user-attachments/assets/f0296441-5da5-485a-8a9b-30e4566ca39c" />
