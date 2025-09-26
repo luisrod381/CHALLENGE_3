@@ -41,14 +41,10 @@ dividimos en 3 partes, 2 menos anchas a los exteriores y la del medio siendo mas
 se lo aplicamos al plano entero de la pirámide, ya que todo lo que le dimos color marrón estaba separado, y a las escaleras.
 
 
-5. Crear el terreno
-<img width="1887" height="1027" alt="Screenshot 2025-09-24 020021" src="https://github.com/user-attachments/assets/f0296441-5da5-485a-8a9b-30e4566ca39c" />
+5. Crear el terreno y decorar
+<img width="1350" height="665" alt="image" src="https://github.com/user-attachments/assets/66371fb5-5f3d-4b91-ae9c-f2d7c09c57e6" />
+
 
 Para crear el terreno, primero tuvimos que download un asset para terrenos llamado: Terrain Sample Asset Pack. Tomamos la brocha "builtin_brush_6" en brush size 165 y 50 opacity. 
 Queríamos darle un estilo de "mossy area, mossy rocky area" (como el ejemplo), entonces los terrain layers que usamos fueron: Muddy_Terrain, Heather_Terrain, Rock_Terrain y Soil_Rocks_Terrain. Fuimos poco a poco
-pintando hasta encontrar un buen ambiente de donde puede ser que este un templo como este. 
-
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/e95b7a45-2ffc-4761-9746-93c4f07a7e4c" /> <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ebb9bdfe-93ab-4d8b-8bcb-408d96b18dc8" />
-
-
-En estas fotos se puede apreciar mucho más, ya que estan de cerca.
+pintando hasta encontrar un buen ambiente de donde puede ser que este un templo escondido. Decidimos revaluar los colores de la pirámide y decidimos que era mejor cambiarlos, por eso, descargamos un asset llamado FreeConcreteMaterials y reemplazamos el blanco por concrete.
