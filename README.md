@@ -1,4 +1,4 @@
-En este proyecto, tuvimos como objeto realizar una pirámide usando solo figuras de ProBuilder. Además, creamos un terreno, le dimos color y añadimos árboles para darle vida
+En este proyecto, tuvimos como objetivo realizar una pirámide usando solo figuras de ProBuilder. Además, creamos un terreno, le dimos color y añadimos árboles para darle vida
 a la escena.
 
 
