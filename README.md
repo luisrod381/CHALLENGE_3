@@ -3,6 +3,7 @@ a la escena.
 
 
 1. Crear la base de la pirámide
+   
 <img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/a5de6bd3-643e-4908-b877-6f323d11ae5a" />
 
 Comenzamos nuestro proyecto creando una base para la pirámide, este siendo un plano default. El default ya esta dividido en muchas caras lo que nos permite más control sobre la forma, diseño y 
@@ -10,7 +11,7 @@ tamaño. Le fuimos haciendo extrude a las caras de los exteriores, pero no las d
 
 
 2. Darle forma a la pirámide
-
+   
 <img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/67ee7ecc-bf78-4ea7-a086-6e736293851c" />
 
 Primero, le hicimos bevel a las caras pero no nos gusto como quedo. Luego decidimos hacerle extrude a las caras de la esquina hacia abajo, he hicimos extrude a los 
@@ -19,8 +20,10 @@ alineadas con la pirámide. Por último, añadimos un plano de 4 caras en el top
  
 
 
-<img width="1593" height="911" alt="Screenshot 2025-09-24 002323" src="https://github.com/user-attachments/assets/2cf22567-fe24-4e7b-95e3-ec7233e3395c" />
+
 3. Crear mini estructuras
+   
+<img width="1593" height="911" alt="Screenshot 2025-09-24 002323" src="https://github.com/user-attachments/assets/2cf22567-fe24-4e7b-95e3-ec7233e3395c" />
 
 Para crear estas estructuras se usaron dos planos para cada una. Tomamos un plano default de ProBuilder, y le hicimos merge a las caras para formar 3 paredes
 y una entrada, y le hicimos extrude. Para hacer el hueco de la entrada le hicimos extrude horizontalmente a la cara desde la derecha. Para la parte negra adentro
@@ -31,6 +34,7 @@ Por ultimo, hicimos merge las caras del exterior que sirven como plataforma.
 
 
 4. Darle color al proyecto
+   
 <img width="1861" height="1006" alt="Screenshot 2025-09-24 010418" src="https://github.com/user-attachments/assets/b9feccc0-8eb4-404e-a4d0-600de91c354b" />
 
 Primero empezamos con darle color a los mini templos. Primero, creamos dos materiales bajo assets, uno para el color azul y otro para rojo. Para colorear la plataforma de los templos,
@@ -42,9 +46,16 @@ se lo aplicamos al plano entero de la pirámide, ya que todo lo que le dimos col
 
 
 5. Crear el terreno y decorar
+   
 <img width="1350" height="665" alt="image" src="https://github.com/user-attachments/assets/66371fb5-5f3d-4b91-ae9c-f2d7c09c57e6" />
 
 
 Para crear el terreno, primero tuvimos que download un asset para terrenos llamado: Terrain Sample Asset Pack. Tomamos la brocha "builtin_brush_6" en brush size 165 y 50 opacity. 
 Queríamos darle un estilo de "mossy area, mossy rocky area" (como el ejemplo), entonces los terrain layers que usamos fueron: Muddy_Terrain, Heather_Terrain, Rock_Terrain y Soil_Rocks_Terrain. Fuimos poco a poco
-pintando hasta encontrar un buen ambiente de donde puede ser que este un templo escondido. Decidimos revaluar los colores de la pirámide y decidimos que era mejor cambiarlos, por eso, descargamos un asset llamado FreeConcreteMaterials y reemplazamos el blanco por concrete.
+pintando hasta encontrar un buen ambiente de donde puede ser que este un templo escondido. Para los árboles, descargamos el asset NatureStarter Decidimos revaluar los colores de la pirámide y decidimos que era mejor cambiarlos, por eso, descargamos un asset llamado FreeConcreteMaterials y reemplazamos el blanco por concrete. 
+
+6. Añadir nuestro personaje
+
+<img width="1209" height="636" alt="image" src="https://github.com/user-attachments/assets/d02fea52-03e4-4edc-8460-622f768200b9" />
+
+Por último, añadimos nuestro personaje del asset Lowpoly Bountyhounter, cual es parte de nuestra historia.
