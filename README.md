@@ -58,4 +58,4 @@ pintando hasta encontrar un buen ambiente de donde puede ser que este un templo 
 
 <img width="1209" height="636" alt="image" src="https://github.com/user-attachments/assets/d02fea52-03e4-4edc-8460-622f768200b9" />
 
-Por último, añadimos nuestro personaje del asset Lowpoly Bountyhounter, cual es parte de nuestra historia.
+Por último, añadimos nuestro personaje del asset Lowpoly Bountyhounter, y lo escondimos en los árboles.
