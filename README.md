@@ -1,13 +1,17 @@
-1. paso
+1. Crear la base de la pirámide
+<img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/a5de6bd3-643e-4908-b877-6f323d11ae5a" />
+
+Comenzamos nuestro proyecto creando una base para la pirámide, este siendo un plano default. El default ya esta dividido en muchas caras lo que nos permite más control sobre la forma, diseño y 
+tamaño. Le fuimos haciendo extrude a las caras de los exteriores, pero no las de los bordes, y haciamos extrude mas alto mientras nos acercabamos al centro.
+
+
+2. Darle forma a la pirámide
+
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/67ee7ecc-bf78-4ea7-a086-6e736293851c" />
 
 
 
-2. paso
 
-
-3. paso
-
-etc
 
 
 x. Crear mini estructuras
