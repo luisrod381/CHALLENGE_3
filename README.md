@@ -1,3 +1,7 @@
+En este proyecto, tuvimos como objeto realizar una pirámide usando solo figuras de ProBuilder. Además, creamos un terreno, le dimos color y añadimos árboles para darle vida
+a la escena.
+
+
 1. Crear la base de la pirámide
 <img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/a5de6bd3-643e-4908-b877-6f323d11ae5a" />
 
