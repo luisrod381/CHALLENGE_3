@@ -9,13 +9,14 @@ tamaño. Le fuimos haciendo extrude a las caras de los exteriores, pero no las d
 
 <img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/67ee7ecc-bf78-4ea7-a086-6e736293851c" />
 
+Primero, le hicimos bevel a las caras pero no nos gusto como quedo. Luego decidimos hacerle extrude a las caras de la esquina hacia abajo, he hicimos extrude a los 
+cubos a su alrededos, repetimos esto en cada borde de cada layer hasta llegar hasta arriba. Luego, tomamos unas escaleras de ProBuilder y las agrandamos para que queden
+alineadas con la pirámide. Por último, añadimos un plano de 4 caras en el tope de la pirámide que usaremos como piso en el futuro.
+ 
 
 
-
-
-
-x. Crear mini estructuras
 <img width="1593" height="911" alt="Screenshot 2025-09-24 002323" src="https://github.com/user-attachments/assets/2cf22567-fe24-4e7b-95e3-ec7233e3395c" />
+3. Crear mini estructuras
 
 Para crear estas estructuras se usaron dos planos para cada una. Tomamos un plano default de ProBuilder, y le hicimos merge a las caras para formar 3 paredes
 y una entrada, y le hicimos extrude. Para hacer el hueco de la entrada le hicimos extrude horizontalmente a la cara desde la derecha. Para la parte negra adentro
@@ -25,7 +26,7 @@ Por ultimo, hicimos merge las caras del exterior que sirven como plataforma.
 
 
 
-x. Darle color al proyecto
+4. Darle color al proyecto
 <img width="1861" height="1006" alt="Screenshot 2025-09-24 010418" src="https://github.com/user-attachments/assets/b9feccc0-8eb4-404e-a4d0-600de91c354b" />
 
 Primero empezamos con darle color a los mini templos. Primero, creamos dos materiales bajo assets, uno para el color azul y otro para rojo. Para colorear la plataforma de los templos,
@@ -36,7 +37,7 @@ dividimos en 3 partes, 2 menos anchas a los exteriores y la del medio siendo mas
 se lo aplicamos al plano entero de la pirámide, ya que todo lo que le dimos color marrón estaba separado, y a las escaleras.
 
 
-x. Crear el terreno
+5. Crear el terreno
 <img width="1887" height="1027" alt="Screenshot 2025-09-24 020021" src="https://github.com/user-attachments/assets/f0296441-5da5-485a-8a9b-30e4566ca39c" />
 
 Para crear el terreno, primero tuvimos que download un asset para terrenos llamado: Terrain Sample Asset Pack. Tomamos la brocha "builtin_brush_6" en brush size 165 y 50 opacity. 
