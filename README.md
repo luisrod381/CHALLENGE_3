@@ -6,7 +6,7 @@ a la escena.
    
 <img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/a5de6bd3-643e-4908-b877-6f323d11ae5a" />
 
-Comenzamos nuestro proyecto creando una base para la pirámide, este siendo un plano default. El default ya esta dividido en muchas caras lo que nos permite más control sobre la forma, diseño y 
+Comenzamos nuestro proyecto creando una base para la pirámide, esta siendo un plano default. El default ya esta dividido en muchas caras lo que nos permite más control sobre la forma, diseño y 
 tamaño. Le fuimos haciendo extrude a las caras de los exteriores, pero no las de los bordes, y haciamos extrude mas alto mientras nos acercabamos al centro.
 
 
